@@ -1,0 +1,1 @@
+print(" this are all belongs to features of f3.py" )
